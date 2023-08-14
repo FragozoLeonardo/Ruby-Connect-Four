@@ -1,6 +1,6 @@
 # spec/connect_four_spec.rb
 
-require_relative './connect_four'
+require_relative '../connect_four'
 
 RSpec.describe ConnectFour do
   describe "#new" do
